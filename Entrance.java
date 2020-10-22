@@ -14,5 +14,5 @@ public class Entrance
         String str=s.concat('i');
         i++;
     }
-    assaignspot(regno);
+    parking spot.assaignspot(regno);
 }
